@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RunCount</string>
+    <string name="height">Рост</string>
+    <string name="weight">Вес</string>
+    <string name="save">Сохранить</string>
+    <string name="history">История:</string>
+</resources>
