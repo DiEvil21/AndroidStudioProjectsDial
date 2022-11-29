@@ -25,6 +25,9 @@
 
 <h1><a href="https://github.com/DiEvil21/AndroidStudioProjectsDial/tree/main/PushUpsApp" target="_blank">PushUpsApp</a>
   <h3 align="center"></h3>
+  
+  
 <img src="https://user-images.githubusercontent.com/55885322/204498693-1ffa674d-5303-4830-a523-74ddca78871a.jpg" height="300"/></h1>
 <img src="https://user-images.githubusercontent.com/55885322/204498728-06ade32e-89e0-4522-895b-fac56aa7a1e9.jpg" height="300"/></h1>
 <img src="https://user-images.githubusercontent.com/55885322/202417879-0395f32d-286a-46f6-8cdd-6bddac294b3b.jpg" height="300"/></h1>
+
