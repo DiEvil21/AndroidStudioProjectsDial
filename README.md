@@ -31,6 +31,11 @@
 <img src="https://user-images.githubusercontent.com/55885322/204498728-06ade32e-89e0-4522-895b-fac56aa7a1e9.jpg" height="300"/></h1>
 <img src="https://user-images.githubusercontent.com/55885322/204499339-2a274f57-7b7e-451e-8734-ecc9bf07290b.jpg" height="300"/></h1>
 
+
+<h1><a href="https://github.com/DiEvil21/AndroidStudioProjectsDial/tree/main/FootballSpravka" target="_blank">FootballSpravka</a>
+  <h3 align="center"></h3>
+  
+
 <img src="https://user-images.githubusercontent.com/55885322/204499634-5b001951-c092-4357-b354-3f2b6fdd0aad.jpg" height="300"/></h1>
 <img src="https://user-images.githubusercontent.com/55885322/204499739-af09c3fc-3265-4b53-964c-84189116f4d4.jpg" height="300"/></h1>
 <img src="https://user-images.githubusercontent.com/55885322/204499760-0f3fe04e-f40d-43df-89a1-77eb05e448aa.jpg" height="300"/></h1>
