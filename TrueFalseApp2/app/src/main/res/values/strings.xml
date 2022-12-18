@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TrueFalseApp</string>
+    <string name="question_test">Canberra is the capital of Australia.</string>
+    <string name="true_button">Правда</string>
+    <string name="false_button">Ложь</string>
+    <string name="next_button">Окей, дальше</string>
+    <string name="correct_toast">Верно!</string>
+    <string name="incorrect_toast">Неверно!</string>
+</resources>
