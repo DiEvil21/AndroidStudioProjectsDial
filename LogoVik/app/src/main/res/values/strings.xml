@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LogoVik</string>
+    <string name="header">Насколько хорошо ты знаком с футбольными клубами\?</string>
+    <string name="et_hint">Введите название клуба</string>
+    <string name="btn_check">Проверить</string>
+    <string name="toast_null">Введите название клуба</string>
+    <string name="toast_error">Неверно</string>
+    <string name="btn_next">Дальше</string>
+    <string name="btn_hint_text">\?</string>
+    <string name="btn_start">Начать</string>
+</resources>
