@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:id="@+id/linear_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:srcCompat="@tools:sample/avatars"
+        android:layout_marginBottom="20dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="30dp"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/btn_rec"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:textColor="@color/white"
+            android:background="@drawable/btn_background"
+            android:textStyle="italic|bold"
+            android:textSize="17sp"
+            android:onClick="onClick"
+            android:text="@string/str_btn_recommended" />
+
+        <Button
+            android:id="@+id/btn_prog"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:textColor="@color/white"
+            android:background="@drawable/btn_background"
+            android:textStyle="italic|bold"
+            android:textSize="17sp"
+            android:onClick="onClick"
+            android:text="@string/str_btn_programs" />
+
+
+    </LinearLayout>
+</LinearLayout>
