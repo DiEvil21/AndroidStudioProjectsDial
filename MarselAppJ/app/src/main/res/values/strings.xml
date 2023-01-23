@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MarselAppJ</string>
+    <string name="title_home">Новости</string>
+    <string name="title_dashboard">Матчи</string>
+    <string name="title_notifications">Статистика</string>
+    <string name="load_header">Марсель</string>
+</resources>

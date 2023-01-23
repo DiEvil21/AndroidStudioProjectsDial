@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <ImageView
+            android:id="@+id/img"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/news_icon"></ImageView>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/news_header"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center|start"
+                android:text="ЦСКА не вышел в еврокубки впервые с 2000 года. Каким был мир тогда"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/news_date"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center|start"
+                android:text="17 мая 2021" />
+
+            <TextView
+                android:id="@+id/textView29"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginTop="10dp"
+                android:background="#6a6b6a"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/news_text"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:text="В последнем туре РПЛ решалось многое: кто-то боролся за Лигу чемпионов, а кто-то — за право остаться в Премьер-Лиге. ЦСКА имел шансы пробиться в Лигу конференций — новый еврокубковый турнир под эгидой УЕФА. Для этого армейцам нужно было побеждать «Динамо», но с задачей они не справились (2:3).\n\n\nПо итогам сезона ЦСКА довольствовался только шестым местом и в еврокубки не попал. Такого с армейцами не случалось очень давно — 21 год. Вспоминаем, каким был мир и футбол в 2000 году, когда ЦСКА в прошлый раз пролетел мимо Европы."
+                android:textSize="16dp" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>
