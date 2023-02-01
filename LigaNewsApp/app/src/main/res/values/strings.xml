@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LigaNewsApp</string>
+    <string name="btn_news">news</string>
+    <string name="btn_stats">stats</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
