@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">chelsiApp</string>
+    <string name="stats">stats</string>
+    <string name="matchs">matchs</string>
+    <string name="news">News</string>
+    <string name="chelsea">chelsea</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
