@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">APLLigaApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="premier_league">Premier League</string>
+    <string name="stats">stats</string>
+    <string name="calendar">calendar</string>
+    <string name="wall">wall</string>
+</resources>
