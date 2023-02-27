@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Spravochnik</string>
+    <string name="match_analysis">match analysis</string>
+    <string name="forecasts">forecasts</string>
+    <string name="types_of_predictions_for_matches">Types of predictions for matches</string>
+</resources>
