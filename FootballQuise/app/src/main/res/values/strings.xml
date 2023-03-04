@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FootballQuise</string>
+    <string name="truee">true</string>
+    <string name="falsee">false</string>
+    <string name="start">Start</string>
+    <string name="let_s_test_your_knowledge">let\'s test your knowledge</string>
+</resources>
