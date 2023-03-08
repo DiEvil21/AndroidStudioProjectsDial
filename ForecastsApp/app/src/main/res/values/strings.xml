@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ForecastsApp</string>
+    <string name="what">What</string>
+    <string name="how">How</string>
+    <string name="facts">Facts</string>
+    <string name="football_predictions">Football predictions</string>
+</resources>
