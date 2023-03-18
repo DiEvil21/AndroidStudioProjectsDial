@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TrueFalseVictorina</string>
+    <string name="str_false">False</string>
+    <string name="str_true">True</string>
+    <string name="start">Start</string>
+    <string name="football_quiz">Football quiz</string>
+</resources>
