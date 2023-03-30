@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">idkApp</string>
+    <string name="rules">Rules</string>
+    <string name="dictionary">Dictionary</string>
+</resources>
