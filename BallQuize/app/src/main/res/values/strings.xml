@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BallQuize</string>
+    <string name="football_rules">football rules</string>
+    <string name="history_of_football">History of football</string>
+    <string name="general_about_football">general about football</string>
+</resources>
