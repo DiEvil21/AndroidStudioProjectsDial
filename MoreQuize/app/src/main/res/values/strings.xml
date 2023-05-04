@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MoreQuize</string>
+    <string name="start">start</string>
+    <string name="score">Score: 0</string>
+    <string name="str_true">True</string>
+    <string name="str_false">False</string>
+</resources>
