@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ReviewClubs</string>
+    <string name="manager">Manager: </string>
+    <string name="overview_of_popular_football_clubs">overview of popular football clubs</string>
+</resources>
