@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MvvmFootballNews</string>
+    <string name="football_news">Football News</string>
+</resources>
