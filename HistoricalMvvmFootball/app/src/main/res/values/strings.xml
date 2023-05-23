@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HistoricalMvvmFootball</string>
+    <string name="interesting_facts">Interesting facts</string>
+    <string name="popular_quotes">Popular Quotes</string>
+    <string name="facts">Facts</string>
+    <string name="quotes">Quotes</string>
+</resources>
