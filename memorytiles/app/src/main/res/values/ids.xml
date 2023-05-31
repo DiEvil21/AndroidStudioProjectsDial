@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tag_is_front" type="id" />
+    <item name="tag_image_id" type="id" />
+    <item name="tag_is_removed" type="id" />
+</resources>
