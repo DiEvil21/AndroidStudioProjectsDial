@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MVVMQuize</string>
+    <string name="quize">Quize</string>
+    <string name="percentage">Percentage: %s</string>
+    <string name="next">Next</string>
+</resources>
