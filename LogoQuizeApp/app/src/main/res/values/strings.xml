@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LogoQuizeApp</string>
+    <string name="submit">Submit</string>
+    <string name="enter_the_club_name">Enter the club name</string>
+</resources>
