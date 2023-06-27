@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/quize_back"
+    tools:context=".QuizActivity">
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        style="@style/Widget.AppCompat.ProgressBar.Horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:max="10"
+        android:progress="10" />
+
+    <ImageView
+        android:id="@+id/clubImageView"
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:layout_below="@id/progressBar"
+         />
+
+    <Button
+        android:id="@+id/optionButton1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/clubImageView"
+        android:textColor="@color/white"
+        android:backgroundTint="@color/green"
+        android:onClick="onClick"
+        android:text="" />
+
+    <Button
+        android:id="@+id/optionButton2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/optionButton1"
+        android:textColor="@color/white"
+        android:backgroundTint="@color/green"
+        android:onClick="onClick"
+        android:text="" />
+
+    <Button
+        android:id="@+id/optionButton3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/optionButton2"
+        android:textColor="@color/white"
+        android:backgroundTint="@color/green"
+
+        android:onClick="onClick"
+        android:text="" />
+
+    <Button
+        android:id="@+id/optionButton4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/optionButton3"
+        android:textColor="@color/white"
+        android:backgroundTint="@color/green"
+        android:onClick="onClick"
+        android:text="" />
+
+</RelativeLayout>

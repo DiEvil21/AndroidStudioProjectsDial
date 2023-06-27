@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ClubQuize</string>
+    <string name="play">Play</string>
+    <string name="load_text">Welcome to the Football Quiz app! Test your knowledge of football clubs and guess the logos of famous teams. Are you ready for the challenge?</string>
+</resources>
