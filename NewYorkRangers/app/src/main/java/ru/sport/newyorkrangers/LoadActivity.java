@@ -10,6 +10,7 @@ import android.graphics.drawable.BitmapDrawable;
 import android.graphics.drawable.Drawable;
 import android.os.Bundle;
 import android.os.Handler;
+import android.widget.ImageView;
 
 import com.squareup.picasso.Picasso;
 import com.squareup.picasso.Target;
@@ -38,6 +39,8 @@ public class LoadActivity extends AppCompatActivity {
                 // Действия при подготовке загрузки изображения
             }
         });
+        ImageView logo = findViewById(R.id.iv_logo);
+        Picasso.get().load("http://159.69.90.204/api/NewYorkRangersApp/logo.png").into(logo);
     }
 
 
