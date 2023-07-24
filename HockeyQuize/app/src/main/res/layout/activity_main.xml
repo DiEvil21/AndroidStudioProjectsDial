@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:id="@+id/main_back"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:padding="15dp"
+        android:gravity="center"
+        tools:text="@tools:sample/lorem" />
+
+    <Button
+        android:id="@+id/btn_true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="25dp"
+        android:backgroundTint="@color/green"
+        android:onClick="checkAnswer"
+        android:padding="10dp"
+        android:text="@string/truee"
+        android:textSize="25sp" />
+
+    <Button
+        android:id="@+id/btn_false"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="25dp"
+        android:backgroundTint="@color/red"
+        android:onClick="checkAnswer"
+        android:padding="10dp"
+        android:text="@string/falsee"
+        android:textSize="25sp" />
+</LinearLayout>
