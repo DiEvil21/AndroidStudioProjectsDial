@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Замените на иконку для статистики хоккея -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24.0"
+    android:viewportHeight="24.0">
+    <path
+        android:fillColor="#FF000000"
+        android:pathData="M19,5h-2V3h-2V1h-2v2h-2V1H9v2H7V1H5v2H3C2.45,3 2,3.45 2,4v16c0,0.55 0.45,1 1,1h16c0.55,0 1,-0.45 1,-1V4c0,-0.55 -0.45,-1 -1,-1zM6,17H4v-2h2v2zM6,13H4v-2h2v2zM6,9H4V7h2v2zM6,5H4V3h2v2zM10,17H8v-2h2v2zM10,13H8v-2h2v2zM10,9H8V7h2v2zM10,5H8V3h2v2zM14,17h-2v-2h2v2zM14,13h-2v-2h2v2zM14,9h-2V7h2v2zM14,5h-2V3h2v2zM18,17h-2v-2h2v2zM18,13h-2v-2h2v2zM18,9h-2V7h2v2zM18,5h-2V3h2v2z" />
+</vector>

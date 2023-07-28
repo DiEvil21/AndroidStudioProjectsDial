@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_news"
+        android:title="Новости"
+        android:icon="@drawable/ic_news" />
+    <item
+        android:id="@+id/action_hockey_stats"
+        android:title="Статистика хоккея"
+        android:icon="@drawable/ic_hockey" />
+</menu>
