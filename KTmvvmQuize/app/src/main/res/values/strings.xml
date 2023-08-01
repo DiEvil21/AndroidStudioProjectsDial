@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KTmvvmQuize</string>
+    <string name="start">Start</string>
+    <string name="true_str">True</string>
+    <string name="false_str">False</string>
+    <string name="submit">Submit</string>
+</resources>
