@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:id="@+id/main_back"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/questionTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="30sp"
+        android:text="" />
+
+    <RadioGroup
+        android:id="@+id/optionsRadioGroup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/questionTextView"
+        android:layout_marginTop="16dp">
+
+        <RadioButton
+            android:id="@+id/option1RadioButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="25sp"
+            android:text="" />
+
+        <RadioButton
+            android:id="@+id/option2RadioButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="25sp"
+            android:text="" />
+
+        <RadioButton
+            android:id="@+id/option3RadioButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="25sp"
+            android:text="" />
+
+        <RadioButton
+            android:id="@+id/option4RadioButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="25sp"
+            android:text="" />
+
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/submitAnswerButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/optionsRadioGroup"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"
+        android:text="Answer" />
+
+</RelativeLayout>
