@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PPfitnessApp</string>
+    <string name="my_workouts">my workouts</string>
+    <string name="add_exercise">Add exercise</string>
+    <string name="add_workout">Add workout</string>
+    <string name="training_date">Training date</string>
+    <string name="description_of_the_workout">Description of the workout</string>
+    <string name="workout_name">Workout name</string>
+    <string name="save_workout">save workout</string>
+    <string name="delete">delete</string>
+</resources>
