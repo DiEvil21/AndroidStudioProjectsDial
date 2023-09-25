@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NeTakoePril</string>
+    <string name="roulette">Roulette</string>
+    <string name="more">More</string>
+    <string name="rotate">ROTATE</string>
+    <string name="more_about_roulette">More about roulette</string>
+    <string name="load_text">Welcome to the world of casino roulette! Discover how this exciting gambling adventure operates and place your bets on luck. Let\'s get started!</string>
+</resources>
