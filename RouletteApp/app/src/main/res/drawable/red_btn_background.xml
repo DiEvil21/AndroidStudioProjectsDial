@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Состояние, когда кнопка нажата -->
+    <item android:state_pressed="true">
+        <shape android:shape="rectangle">
+            <solid android:color="#FF0000" /> <!-- Красный цвет фона при нажатии -->
+            <corners android:radius="0dp" /> <!-- Устанавливаем радиус скругления углов в 0dp, чтобы сделать кнопку квадратной -->
+        </shape>
+    </item>
+    <!-- Состояние, когда кнопка не нажата (обычное состояние) -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@color/red" /> <!-- Красный цвет фона в обычном состоянии -->
+            <corners android:radius="0dp" /> <!-- Устанавливаем радиус скругления углов в 0dp, чтобы сделать кнопку квадратной -->
+        </shape>
+    </item>
+</selector>

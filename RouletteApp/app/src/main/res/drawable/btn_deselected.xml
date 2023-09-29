@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Нижняя белая полоса -->
+    <item
+        android:left="0dp"
+        android:right="0dp"
+        android:top="5dp"
+        android:bottom="5dp"> <!-- Устанавливаем высоту полосы (в данном случае, 5dp) -->
+        <shape android:shape="rectangle">
+            <solid android:color="#FFFFFF" /> <!-- Белый цвет полосы -->
+        </shape>
+    </item>
+
+</layer-list>
