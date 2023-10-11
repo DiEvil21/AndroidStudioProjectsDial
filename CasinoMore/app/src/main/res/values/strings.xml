@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CasinoMore</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="third">Pocker</string>
+    <string name="second">Roulette</string>
+    <string name="first">Casino</string>
+</resources>

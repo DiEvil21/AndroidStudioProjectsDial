@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_first"
+        android:icon="@drawable/main"
+        android:title="@string/first"
+        />
+    <item
+        android:id="@+id/nav_second"
+        android:icon="@drawable/roulette"
+        android:title="@string/second"
+        />
+    <item
+        android:id="@+id/nav_third"
+        android:icon="@drawable/pocker"
+        android:title="@string/third"
+        />
+</menu>
