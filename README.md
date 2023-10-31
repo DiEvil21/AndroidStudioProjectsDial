@@ -1,4 +1,4 @@
-# AndroidStudioProjectsDial!
+# Свалка старых приложений на java!
 
 
 <h1><a href="https://github.com/DiEvil21/AndroidStudioProjectsDial/tree/main/BavariaApp" target="_blank">BavariaApp</a>
